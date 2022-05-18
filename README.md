@@ -6,11 +6,19 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </div>
     <br></br>
-    <h1 align="center">Hi 👋, I'm Hao Nguyen</h1>
-    <h3 align="center">A passionate full-stack developer from VN</h3>
+    <h1 align="center">Hi , I'm Hao Nguyen</h1>
     <br></br>
     <img src="https://media.giphy.com/media/ZgTR3UQ9XAWDvqy9jv/giphy.gif" width="600" height="300">
 </div>
+
+***
+# About me:
+- My portfilio are [here](www.com....) 
+- My blog [BlogAlgorithm](www.dbdj)
+- I currently internship at [NashTech](www.facebook.com)
+- I want to become a full-stack developer
+- I want to research about AI especially are Machine Learning
+***
 
 <div id="body" align="center">
     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanhao111&" alt="tanhao111" /></p>
