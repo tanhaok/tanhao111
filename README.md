@@ -21,7 +21,7 @@
 ***
 
 <div id="body" align="center">
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanhao111&" alt="tanhao111" /></p>
+    <a href="https://app.daily.dev/richwall"><img src="https://api.daily.dev/devcards/0fce3d92d6354419b09d8d74d15f68cd.png?r=ydy" width="400" alt="Hao Nguyen Tan's Dev Card"/></a>
 </div>
 
 
